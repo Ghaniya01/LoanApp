@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input.input-error, select.input-error{
+    border-color: #fc8181;
+}
+
+.errors {
+    color: red;
+  font-size: 12px;
+  font-weight: 400;
+  margin: 0; /* No space at all */
+  padding: 0;
+  line-height: 1; /* Keeps text tight */
+  display: block;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  button:disabled{
+    opacity: 0.35;
+  }

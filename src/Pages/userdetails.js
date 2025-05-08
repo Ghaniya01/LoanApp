@@ -1,7 +1,7 @@
-import { Topbar } from "../Commons/Topbar"
-import { Sidebar } from "../Commons/Sidebar"
-import back from "../Assets/Icons/back.png"
-import profile from "../Assets/Icons/profile.png"
+import { Topbar } from "../commons/Topbar"
+import { Sidebar } from "../commons/Sidebar"
+import back from "../assets/Icons/back.png"
+import profile from "../assets/Icons/profile.png"
 import { useNavigate } from "react-router-dom";
 
 

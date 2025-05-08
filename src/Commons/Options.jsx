@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import {FaEye, FaBan, FaUserCheck } from "react-icons/fa";
-import options from "../Assets/Icons/options.png"
+import options from "../assets/Icons/options.png"
 import { useNavigate } from "react-router-dom";
 
 export const OptionsDropdown = () => {

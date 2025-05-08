@@ -1,25 +1,25 @@
 import { useState } from "react";
-import briefcase from "../Assets/Icons/briefcase.png";
-import home from "../Assets/Icons/home.png";
-import users from "../Assets/Icons/users.png";
-import guarantor from "../Assets/Icons/guarantor.png";
-import decisions from "../Assets/Icons/decisions.png";
-import loans from "../Assets/Icons/loans.png";
-import savings from "../Assets/Icons/savings.png";
-import whitelist from "../Assets/Icons/whitelist.png";
-import loanrequest from "../Assets/Icons/loanrequest.png";
-import karma from "../Assets/Icons/karma.png";
-import savingsproduct from "../Assets/Icons/savingsproduct.png";
-import feesandcharges from "../Assets/Icons/feesandcharges.png";
-import transactions from "../Assets/Icons/transactions.png";
-import services from "../Assets/Icons/services.png";
-import serviceamount from "../Assets/Icons/serviceamount.png";
-import settlement from "../Assets/Icons/settlement.png";
-import report from "../Assets/Icons/report.png";
-import fees from "../Assets/Icons/fees.png";
-import preferences from "../Assets/Icons/preferences.png";
-import auditlog from "../Assets/Icons/auditlog.png";
-import dropdown2 from "../Assets/Icons/dropdown2.png"
+import briefcase from "../assets/Icons/briefcase.png";
+import home from "../assets/Icons/home.png";
+import users from "../assets/Icons/users.png";
+import guarantor from "../assets/Icons/guarantor.png";
+import decisions from "../assets/Icons/decisions.png";
+import loans from "../assets/Icons/loans.png";
+import savings from "../assets/Icons/savings.png";
+import whitelist from "../assets/Icons/whitelist.png";
+import loanrequest from "../assets/Icons/loanrequest.png";
+import karma from "../assets/Icons/karma.png";
+import savingsproduct from "../assets/Icons/savingsproduct.png";
+import feesandcharges from "../assets/Icons/feesandcharges.png";
+import transactions from "../assets/Icons/transactions.png";
+import services from "../assets/Icons/services.png";
+import serviceamount from "../assets/Icons/serviceamount.png";
+import settlement from "../assets/Icons/settlement.png";
+import report from "../assets/Icons/report.png";
+import fees from "../assets/Icons/fees.png";
+import preferences from "../assets/Icons/preferences.png";
+import auditlog from "../assets/Icons/auditlog.png";
+import dropdown2 from "../assets/Icons/dropdown2.png"
 const MenuSection = ({ title, items }) => {
   return (
     <ul className="flex flex-col">

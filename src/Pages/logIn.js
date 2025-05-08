@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "../Assets/Images/logo.png";
-import loginImage from "../Assets/Images/loginImage.png";
+import logo from "../assets/Images/logo.png";
+import loginImage from "../assets/Images/loginImage.png";
 import { useNavigate } from "react-router-dom";
-import {Form } from "../Forms/loginform"
+import {Form } from "../forms/loginform"
 
 export const LogIn = () => {
   

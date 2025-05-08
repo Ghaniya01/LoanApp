@@ -1,9 +1,9 @@
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import { LogIn } from './Pages/logIn';
-import { Dashboard } from './Pages/dashboard';
-import { UserDetails } from './Pages/userdetails';
-import { Signup } from './Pages/signup';
+import { LogIn } from './pages/LogIn';
+import { Dashboard } from './pages/Dashboard';
+import { UserDetails } from './pages/UserDetails';
+import { Signup } from './pages/SignUp';
 
 function App() {
   return (

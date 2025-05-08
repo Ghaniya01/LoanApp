@@ -1,7 +1,7 @@
 import React from "react";
-import logo from "../Assets/Images/logo.png";
-import loginImage from "../Assets/Images/loginImage.png";
-import { Form } from "../Forms/signupform";
+import logo from "../assets/Images/logo.png";
+import loginImage from "../assets/Images/loginImage.png";
+import { Form } from "../forms/signupform";
 import { useNavigate } from "react-router-dom";
 
 

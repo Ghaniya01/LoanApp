@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import filter from "../Assets/Icons/filter.png"
+import filter from "../assets/Icons/filter.png"
 
 export const FilterModal = () => {
   const [showFilter, setShowFilter] = useState(false);

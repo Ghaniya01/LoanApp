@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import {useFormik} from "formik";
-import {Schema} from "../Schemas/validatesignup"
+import {Schema} from "../schemas/validatesignup"
 
 export const Form = ({ text, paragraph, organization, username, email, phonenumber,password, buttonText}) => {
     

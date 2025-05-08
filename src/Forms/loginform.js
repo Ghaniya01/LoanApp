@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import {useFormik} from "formik";
-import {Schema} from "../Schemas/validatelogin"
+import {Schema} from "../schemas/validatelogin"
 
 
 export const Form = ({ text, paragraph, email, note, buttonText}) => {

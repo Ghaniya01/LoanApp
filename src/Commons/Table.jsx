@@ -1,5 +1,5 @@
 import React from "react";
-import { FilterModal } from "../Commons/Filter";
+import { FilterModal } from "../commons/Filter";
 import { OptionsDropdown } from "./Options";
 
 export const Table = ({

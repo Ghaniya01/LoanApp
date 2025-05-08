@@ -1,13 +1,12 @@
-import { Topbar } from "../Commons/Topbar";
-import { Sidebar } from "../Commons/Sidebar";
-import { Card } from "../Commons/Card";
-import { Table } from "../Commons/Table";
-import card1 from "../Assets/Icons/card1.png";
-import card2 from "../Assets/Icons/card2.png";
-import card3 from "../Assets/Icons/card3.png";
-import card4 from "../Assets/Icons/card4.png";
-import { Pagination } from "../Commons/Pagination";
-
+import { Topbar } from "../commons/Topbar";
+import { Sidebar } from "../commons/Sidebar";
+import { Card } from "../commons/Card";
+import { Table } from "../commons/Table";
+import card1 from "../assets/Icons/card1.png";
+import card2 from "../assets/Icons/card2.png";
+import card3 from "../assets/Icons/card3.png";
+import card4 from "../assets/Icons/card4.png";
+import { Pagination } from "../commons/Pagination";
 
 
 export const Dashboard = () => {

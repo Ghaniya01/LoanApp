@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import logo from "../Assets/Images/logo.png";
-import bell from "../Assets/Icons/bell.png";
-import profileimage from "../Assets/Images/profileimage.png";
-import dropdown from "../Assets/Icons/dropdown.png";
-import search from "../Assets/Icons/search.png";
+import logo from "../assets/Images/logo.png";
+import bell from "../assets/Icons/bell.png";
+import profileimage from "../assets/Images/profileimage.png";
+import dropdown from "../assets/Icons/dropdown.png";
+import search from "../assets/Icons/search.png";
 import { useNavigate } from "react-router-dom";
 
 export const Topbar = () => {
